@@ -12,4 +12,4 @@
 
 ## Acknowledgements
 
-30 Projects Project was built with the skills learned from [Devbootcamp](https://devbootcamp.com/) and a Freelance Wordpress Develoopment course from [Skillcrush](https://skillcrush.com/). Design inspiration and starter files inspired by the program's SkillCrush Starter Theme.
+30 Projects Project was built with the skills learned from [Devbootcamp](https://devbootcamp.com/) and a Freelance Wordpress Development course from [Skillcrush](https://skillcrush.com/). Design inspiration and starter files inspired by the program's SkillCrush Starter Theme.
