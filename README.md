@@ -4,7 +4,7 @@
 
 ## Built With
 
-30 Projects Projects is built on Wordpress with a custom theme developed by Cassi Gallagher-Shearer. Additionally:
+30 Projects Projects is built on Wordpress with a custom theme developed by [Cassi Gallagher-Shearer](http://cassigallagher.com/). Additionally:
 
 * HTML5
 * CSS3
@@ -12,4 +12,4 @@
 
 ## Acknowledgements
 
-30 Projects Project was built with the skills learned from [Devbootcamp](https://devbootcamp.com/) and a Freelance Wordpress Develoopment course from [Skillcrush](https://skillcrush.com/). Design inspiration and starter files inspired by the program's SkillCrush Starter Theme. 
+30 Projects Project was built with the skills learned from [Devbootcamp](https://devbootcamp.com/) and a Freelance Wordpress Develoopment course from [Skillcrush](https://skillcrush.com/). Design inspiration and starter files inspired by the program's SkillCrush Starter Theme.
