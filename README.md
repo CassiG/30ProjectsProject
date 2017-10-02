@@ -1,6 +1,6 @@
 # 30ProjectsProject
 
-30 Projects Project is a Wordpress blog documenting the learning of a new thing by building 1 project a day for 30 days. Inspired by Emilie Wapnick and her Ted talk: [Why some of us don't have one true calling](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling), and a blog post on [Micromsatery](http://puttylike.com/why-you-should-stop-striving-for-mastery-and-what-to-aim-for-instead/), and many bloggers I've followed who learn by doing one thing every day for a year.
+30 Projects Project is a Wordpress blog documenting the learning of a new thing by building ~2 projects a week until I've done 30. Inspired by Emilie Wapnick and her Ted talk: [Why some of us don't have one true calling](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling), and a blog post on [Micromsatery](http://puttylike.com/why-you-should-stop-striving-for-mastery-and-what-to-aim-for-instead/), and many bloggers I've followed who learn by doing one thing every day for a year.
 
 ## Built With
 
