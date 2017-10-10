@@ -8,8 +8,10 @@ Tags:
 
 */
 
-/* Normalize CSS via http://necolas.github.io/normalize.css/ */
-/*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
+/* ==========================================================================
+ Normalize CSS via http://necolas.github.io/normalize.css/
+normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css
+========================================================================== */
 
 /* Document
    ========================================================================== */
@@ -455,4 +457,42 @@ template {
 
 [hidden] {
   display: none;
+}
+
+/* ==========================================================================
+Regular CSS Styles
+========================================================================== */
+
+body {
+    margin: 0 auto;
+    width: 70%;
+}
+
+a.top-logo {
+  text-decoration: none;
+}
+
+.top-logo {
+    display: block;
+    text-align: center;
+    margin: 4rem 0 3rem 0;
+}
+
+.title {
+    display: block;
+    font-size: 3em;
+    font-family: 'Roboto Slab', serif;
+}
+
+.title a {
+  text-decoration: none;
+}
+
+.menu ul li {
+  text-align: center;
+  list-style: none;
+}
+
+.menu ul li a {
+  text-decoration: none;
 }
