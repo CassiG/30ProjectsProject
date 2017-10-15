@@ -464,8 +464,8 @@ Regular CSS Styles
 ========================================================================== */
 
 body {
-    margin: 0 auto;
     width: 70%;
+    text-align: center;
 }
 
 a.top-logo {
@@ -475,7 +475,7 @@ a.top-logo {
 .top-logo {
     display: block;
     text-align: center;
-    margin: 4rem 0 3rem 0;
+    margin: 4rem 0 2rem 0;
 }
 
 .title {
@@ -495,4 +495,27 @@ a.top-logo {
 
 .menu ul li a {
   text-decoration: none;
+}
+
+#sidebar ul li {
+  list-style: none;
+}
+
+
+@media (min-width: 768px) {
+
+  body {
+    margin: 0 auto;
+    text-align: left;
+  }
+
+  .main-content {
+    float: left;
+    width: 65%;
+  }
+
+  #sidebar {
+    float: left;
+    width: 35%;
+  }
 }
